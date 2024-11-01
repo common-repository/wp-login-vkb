@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ariagle\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-login-vkb\n"
+"POT-Creation-Date: 2009-08-16 09:02+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Ariagle\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: wp-login-vkb.php:49
+#: wp-login-vkb.php:50
+msgid "WP-Login-Vkb"
+msgstr ""
+
+#: wp-login-vkb.php:59
+msgid "Login virtual keyboard"
+msgstr ""
+
+#: wp-login-vkb.php:67
+msgid "Keyboard initial visible"
+msgstr "首次键盘可见"
+
+#: wp-login-vkb.php:72
+msgid "Show key flash on click"
+msgstr "按键时闪动"
+
+#: wp-login-vkb.php:77
+msgid "Show numeric key pad"
+msgstr "显示数字键盘"
+
+#: wp-login-vkb.php:82
+msgid "1-pixel gap between keys"
+msgstr "按键间隔1像素"
+
+#: wp-login-vkb.php:92
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: wp-login-vkb.php:106
+msgid "Settings"
+msgstr "设定"
+
+#: wp-login-vkb.php:173
+msgid "Virtual keyboard interface"
+msgstr "虚拟键盘"
+
+#: wp-login-vkb.php:174
+msgid "Display virtual keyboard interface"
+msgstr "显示虚拟键盘"
+

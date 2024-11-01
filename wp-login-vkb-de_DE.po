@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-login-vkb\n"
+"POT-Creation-Date: 2009-08-15 08:25+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Heiko Bartsch [mai 'kju:t?i]\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: wp-login-vkb.php:49
+#: wp-login-vkb.php:50
+msgid "WP-Login-Vkb"
+msgstr "WP-Login-Vkb"
+
+#: wp-login-vkb.php:59
+msgid "Login virtual keyboard"
+msgstr "Über Virtuelles Keyboard anmelden"
+
+#: wp-login-vkb.php:67
+msgid "Keyboard initial visible"
+msgstr "Keyboard sichtbar"
+
+#: wp-login-vkb.php:72
+msgid "Show key flash on click"
+msgstr "Tastenklick anzeigen"
+
+#: wp-login-vkb.php:77
+msgid "Show numeric key pad"
+msgstr "Nummernblock anzeigen"
+
+#: wp-login-vkb.php:82
+msgid "1-pixel gap between keys"
+msgstr "1-Pixel Abstand zwischen den Tasten"
+
+#: wp-login-vkb.php:92
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: wp-login-vkb.php:106
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wp-login-vkb.php:173
+msgid "Virtual keyboard interface"
+msgstr "Virtuelle Tastatur"
+
+#: wp-login-vkb.php:174
+msgid "Display virtual keyboard interface"
+msgstr "Zeige Virtuelle Tastatur an"
+

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-login-vkb\n"
+"POT-Creation-Date: 2010-08-31 06:31+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+
+msgid "WP-Login-Vkb"
+msgstr "صفجه کلید مجازی"
+
+msgid "Privacy in the Sustainable Plugins Sponsorship Network"
+msgstr "Privacy in the Sustainable Plugins Sponsorship Network"
+
+msgid "Login virtual keyboard"
+msgstr "صفحه کلید مجازی (نسخه فارسی)"
+
+msgid "Keyboard initial visible"
+msgstr "نمایش صفحه کلید به صورت معمولی (باز)"
+
+msgid "Show key flash on click"
+msgstr "استفاده از فلش هنگام استفاده از صفحه کلید مجازی"
+
+msgid "Show numeric key pad"
+msgstr "نمایش کلید های کناری (اعداد)"
+
+msgid "1-pixel gap between keys"
+msgstr "اعمال کردن فاصله میان کلیدها (به اندازه 1پیکسل)"
+
+msgid "Virtual keyboard mandatory"
+msgstr "استفاده از صفحه کلید مجازی به صورت اجباری(دائمی)"
+
+msgid "I have donated to this plugin"
+msgstr "به این افزونه امتیاز دهید."
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Virtual keyboard interface"
+msgstr "صفحه کلید مجازی"
+
+msgid "Display virtual keyboard interface"
+msgstr "نمایش صفحه کلید مجازی"
+
